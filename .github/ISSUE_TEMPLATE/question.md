@@ -1,13 +1,11 @@
 ---
-name: Question
-about: Ask a question or request clarification
+name: ❓ Question/Discussion
+about: Ask a question or discuss something
 title: "[QUESTION] "
 labels: question
-assignees: ""
+assignees: ''
+
 ---
 
-**Your Question**
-Write your question here clearly.
-
-**Additional Context**
-Add any additional context or screenshots here.
+### ❓ Question
+What do you want to ask or discuss?
