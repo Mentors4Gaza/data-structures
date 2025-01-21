@@ -1,31 +1,24 @@
 ---
-name: Bug report
-about: Report a bug to help us improve the project
+name: 🐞 Bug Report
+about: Report a bug in the project
 title: "[BUG] "
 labels: bug
-assignees: ""
+assignees: ''
+
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### Description
+What is the bug?
 
-**To Reproduce**
-Steps to reproduce the behavior:
+### Steps to Reproduce
+1. 
+2. 
+3. 
 
-1. Go to '...'
-2. Click on '...'
-3. See error
+### Expected vs Actual
+- Expected: 
+- Actual: 
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Environment (please complete the following information):**
-
-- OS: [e.g., Windows, macOS, Linux]
-- Python version: [e.g., 3.9]
-
-**Additional context**
-Add any other context about the problem here.
+### Environment
+- Python Version: 
+- OS: 
