@@ -48,22 +48,19 @@ Here are some resources to help you get started with the project and its tools:
   - [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
   - [Visualizations of Algorithms and Data Structures](https://visualgo.net/en)
 
-### GitHub-Specific Resources
+### Git/Github-Specific Resources
 
 - **Git Basics**
   - [Git Documentation](https://git-scm.com/doc)
   - [Interactive Git Tutorial](https://learngitbranching.js.org/)
 - **GitHub Features**
   - [Introduction to GitHub](https://docs.github.com/en/get-started)
-  - [GitHub Guides](https://guides.github.com/)
-  - [GitHub Flow](https://guides.github.com/introduction/flow/)
 - **GitHub Issues**
   - [About Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
   - [Creating Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
-  - [Best Practices for Using GitHub Issues](https://medium.com/better-programming/best-practices-for-using-github-issues-70ee0d5e3c0e)
 - **GitHub Milestones**
   - [Using Milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)
-  - [How to Create Milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones)
+  - [Creating and editing milestones for issues and pull requests](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests)
 - **Pull Requests**
   - [About Pull Requests](https://docs.github.com/en/pull-requests)
   - [Creating a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
