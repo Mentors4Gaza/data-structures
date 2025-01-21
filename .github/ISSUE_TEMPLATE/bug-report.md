@@ -7,18 +7,18 @@ assignees: ''
 
 ---
 
-### Description
+### 📝 Description
 What is the bug?
 
-### Steps to Reproduce
+### 🔄 Steps to Reproduce
 1. 
 2. 
 3. 
 
-### Expected vs Actual
-- Expected: 
-- Actual: 
+### ✅ Expected vs ❌ Actual
+- **Expected**: 
+- **Actual**: 
 
-### Environment
-- Python Version: 
-- OS: 
+### 🖥️ Environment
+- **Python Version**: 
+- **OS**: 
