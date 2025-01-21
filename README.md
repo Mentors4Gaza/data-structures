@@ -2,6 +2,13 @@
 
 This repository is a sample project designed for mentoring and collaboration on data structures.
 
+## Instructions
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Mentors4Gaza/data-structures.git
+   cd data-structures
+
 ---
 
 ## Project Details
