@@ -77,6 +77,12 @@ Here are some resources to help you get started with the project and its tools:
 - **GitHub Actions**
   - [GitHub Actions Overview](https://docs.github.com/en/actions)
 
+### Data Structures & Algorithm Resources
+- [Algorithm Program Repository by inzva](https://github.com/inzva/Algorithm-Program)
+- [Errichto Youtube Channel](https://www.youtube.com/@Errichto)
+- [Abdulbari Youtube Channel](https://www.youtube.com/@abdul_bari)
+- [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
+
 ---
 
 ## Contribution Guidelines
